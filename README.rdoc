@@ -7,7 +7,7 @@
 	ruby 2.1.0
 
 * Configuration
-	Se placer dans le repertoire garage.
+	Se placer dans le repertoire dev_web.
 	bundle install
 
 * Database creation
