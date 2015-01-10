@@ -1,0 +1,24 @@
+== README
+
+/!\ A lire imperativement !
+
+* Ruby version
+	Rails 4.1.6
+	ruby 2.1.0
+
+* Configuration
+	Se placer dans le repertoire garage.
+	bundle install
+
+* Database creation
+	rake db:migrate
+
+* Database initialisation
+	rake db:seed
+
+* Lancer le serveur
+	rails s
+
+* Le serveur se trouvera a l'adresse : 0.0.0.0:3000
+
+<tt>rake doc:app</tt>.
